@@ -1,0 +1,24 @@
+proxies:
+- {"name":"_01","server":"a.laolei.ml","type":"trojan","port":50757,"password":"dDbBcidENX","skip-cert-verify":true,"udp":true}
+- {"name":"_02","server":"140.238.205.173","type":"trojan","port":443,"password":"cb43b7c2-b744-41c5-bcc2-fd7467b332cf","skip-cert-verify":true,"udp":true}
+- {"name":"_03","server":"1002hk1326.tfzhc.top","type":"trojan","port":443,"password":"2be3639a-f4cd-4161-ba78-49842b2269f6","skip-cert-verify":true,"udp":true}
+- {"name":"_04","server":"1002tw.tfzhc.top","type":"trojan","port":443,"password":"2be3639a-f4cd-4161-ba78-49842b2269f6","skip-cert-verify":true,"udp":true}
+- {"name":"_05","server":"nice-ca01.tiktokcdn.buzz","type":"trojan","port":443,"password":"ff37081f-9043-476a-a6ea-854297b06839","skip-cert-verify":true,"udp":true}
+- {"name":"_06","server":"103.103.245.125","type":"trojan","port":50350,"password":"006bca8c-4e1f-44e0-9399-1cd4ff480a40","skip-cert-verify":true,"udp":true}
+- {"name":"_07","server":"hk.vc3.hyperlinkvpn.xyz","type":"trojan","port":52000,"password":"0aa9e572-ca8b-4d2c-bef6-501fc3eacbb8","skip-cert-verify":true,"udp":true}
+- {"name":"_08","server":"103.103.245.125","type":"trojan","port":50418,"password":"a70b39d1-62ea-4d9e-b681-9c5408352234","skip-cert-verify":true,"udp":true}
+- {"name":"_09","server":"103.103.245.125","type":"trojan","port":50206,"password":"789d73af-b985-4778-9872-211047c28015","skip-cert-verify":true,"udp":true}
+- {"name":"_10","server":"jp-04.tiktokcdn.sbs","type":"trojan","port":443,"password":"f41e6f27-5a33-4eb0-b6be-eb3755c93b78","skip-cert-verify":true,"udp":true}
+- {"name":"_11","server":"1002sg.tfzhc.top","type":"trojan","port":443,"password":"2be3639a-f4cd-4161-ba78-49842b2269f6","skip-cert-verify":true,"udp":true}
+- {"name":"_12","server":"41.216.177.41","type":"trojan","port":443,"password":"274c1b23-2bfe-40ac-943c-ebc1aa044b22","skip-cert-verify":true,"udp":true}
+- {"name":"_13","server":"150.230.249.42","type":"trojan","port":443,"password":"0Y9gOHSdRt","skip-cert-verify":true,"udp":true}
+- {"name":"_14","server":"www.sxsy88.tk","type":"trojan","port":44150,"password":"zFyLKH62WN","skip-cert-verify":true,"udp":true}
+- {"name":"_15","server":"nice-us01.tiktokcdn.buzz","type":"trojan","port":443,"password":"null","skip-cert-verify":true,"udp":true}
+- {"name":"_16","server":"lsj02.wangxd.life","type":"trojan","port":3052,"password":"3a2c0c6c-9ee5-c05f-c951-fcd73831983e","skip-cert-verify":true,"udp":true}
+- {"name":"_17","server":"v2cross.com.05.v2ce.com","type":"trojan","port":443,"password":"kGrwqmB1nEKUsDwE","skip-cert-verify":true,"udp":true}
+- {"name":"🇦🇺 AU_18","server":"102hk.tfzhc.top","type":"trojan","country":"🇦🇺 AU","port":443,"password":"2be3639a-f4cd-4161-ba78-49842b2269f6","skip-cert-verify":true,"udp":true}
+- {"name":"🇨🇦 CA_19","server":"1002tw01.tfzhc.top","type":"trojan","country":"🇨🇦 CA","port":443,"password":"2be3639a-f4cd-4161-ba78-49842b2269f6","skip-cert-verify":true,"udp":true}
+- {"name":"🇨🇦 CA_20","server":"1002jp.tfzhc.top","type":"trojan","country":"🇨🇦 CA","port":443,"password":"2be3639a-f4cd-4161-ba78-49842b2269f6","skip-cert-verify":true,"udp":true}
+- {"name":"🇭🇰 HK_21","server":"hkt2.sfsa.icu","type":"ss","country":"🇭🇰 HK","port":11007,"password":"3f0b3b6b-eaa3-421f-b4b9-a1f0b22ec001","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇳🇱 NL_22","server":"nlt-1.opensvr.net","type":"trojan","country":"🇳🇱 NL","port":443,"password":"opentunnel.net-oqtxymz6gjl3","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_23","server":"20.210.122.21","type":"ss","country":"🇺🇸 US","port":443,"password":"233blog.com","cipher":"aes-256-gcm"}
